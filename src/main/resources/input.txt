@@ -1,0 +1,4 @@
+new member joonhee daejeon yuseong-gu munhwawon-ro_47-beon-gil 32
+new member saejeong daejeon yuseong-gu munhwawon-ro_47-beon-gil 33
+new member gildong daejeon yuseong-gu munhwawon-ro_47-beon-gil 34
+
